@@ -1,5 +1,10 @@
 package cn.v5cn.langchain4j.common;
 
+/**
+ * 工具类
+ *
+ * @author ZYW
+ */
 public interface ToolBar {
 
     /**

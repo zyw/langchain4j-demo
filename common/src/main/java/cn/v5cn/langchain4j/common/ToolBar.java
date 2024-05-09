@@ -5,7 +5,7 @@ public interface ToolBar {
     /**
      * 智谱AI开放平台
      */
-    String ZHIPU_AI_KEY = "d9ab2ea1cb6ada2731854515f59ec1e3.oAaUmdQoEl8Sr3gR";
+    String ZHIPU_AI_KEY = "";
 
     /**
      * OpenAI Key

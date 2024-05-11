@@ -30,4 +30,10 @@ public interface ToolBar {
      */
     String OLLAMA_MODEL_NAME = "terrence/openbuddy:8b";
 
+    /**
+     * Cohere API Key
+     * https://dashboard.cohere.com/
+     */
+    String COHERE_API_KEY = "SZ3HR1XEM3pUuWhL59vfM74WtEEc2zJY4njRmaXm";
+
 }

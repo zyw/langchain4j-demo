@@ -10,7 +10,7 @@ public interface ToolBar {
     /**
      * 智谱AI开放平台
      */
-    String ZHIPU_AI_KEY = "";
+    String ZHIPU_AI_KEY = "ZHIPU_AI_KEY";
 
     /**
      * OpenAI Key
@@ -34,6 +34,6 @@ public interface ToolBar {
      * Cohere API Key
      * https://dashboard.cohere.com/
      */
-    String COHERE_API_KEY = "SZ3HR1XEM3pUuWhL59vfM74WtEEc2zJY4njRmaXm";
+    String COHERE_API_KEY = "COHERE_API_KEY";
 
 }
